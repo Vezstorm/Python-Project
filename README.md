@@ -1,8 +1,6 @@
-Angela Yu's Udemy Course 
+**Angela Yu's Udemy Course **
 
-100 Days of Code: The Complete Python Pro Bootcamp
-
-This course covers:
+**100 Days of Code: The Complete Python Pro Bootcamp**
 
 1. Python 3 - the latest version of Python
 
