@@ -30,4 +30,3 @@ if extra_cheese == "Y":
 # Prints out the final result of the price
 print(f"your final bill is: ${price}.")
 
-# She did not teach about being able to use logical operators in if statements
