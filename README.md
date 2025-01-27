@@ -5,13 +5,21 @@ Angela Yu's Udemy Course
 This course covers:
 
 Python 3 - the latest version of Python
+
 PyCharm, Jupyter Notebook, Google Colab
+
 Python Scripting and Automation
+
 Python Game Development
+
 Web Scraping
+
 Beautiful Soup
+
 Selenium Web Driver
+
 Request
+
 WTForms
 Data Science
 Pandas
